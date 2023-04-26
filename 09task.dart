@@ -10,4 +10,15 @@
 
 // Find the expression value assign to 'answer'. a+b - c*d .
 
-void main() {}
+void main() {
+  int a , b, c, d;
+  a = 8;
+  b = 3;
+  c = 2;
+  d = 4;
+  int answer = a+b - d*c;
+  print(answer);
+
+}
+
+
