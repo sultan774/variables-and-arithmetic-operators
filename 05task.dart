@@ -6,4 +6,11 @@
 
 //  Find the division of a and b then assign to "answer".
 
-void main() {}
+void main() {
+  int a , b;
+  a = 72;
+  b = 9;
+  int answer = a ~/ b;
+  print(answer);
+
+}
