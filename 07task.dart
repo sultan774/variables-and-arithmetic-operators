@@ -8,4 +8,13 @@
 
 // Find the expression value assign to 'answer'.  a - b + c
 
-void main() {}
+void main() {
+  int a , b, c;
+  a = 12;
+  b = 4;
+  c = 1;
+  int answer = a - b + c;
+  print(answer);
+
+}
+
